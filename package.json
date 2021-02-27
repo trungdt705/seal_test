@@ -1,0 +1,18 @@
+{
+	"name": "seal_commerce_test",
+	"version": "1.0.0",
+	"description": "",
+	"main": "task_1.js",
+	"scripts": {
+		"task_1": "node task_1.js",
+		"task_2": "node task_2.js",
+		"task_4": "node task_4.js",
+		"task_5": "node task_5.js"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"ejs": "^3.1.6",
+		"js-beautify": "^1.13.5"
+	}
+}
